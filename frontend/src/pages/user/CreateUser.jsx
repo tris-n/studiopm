@@ -123,6 +123,7 @@ const CreateUser = () => {
 										{/* Role */}
 										<Select id="role" name="role" value={role} onChange={onChange} required>
 											<MenuItem value={"default"} disabled>Please select a role</MenuItem>
+											<MenuItem value={"studio head"}>Studio Head</MenuItem>
 											<MenuItem value={"director"}>Director</MenuItem>
 											<MenuItem value={"producer"}>Producer</MenuItem>
 											<MenuItem value={"writer"}>Writer</MenuItem>

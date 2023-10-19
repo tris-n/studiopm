@@ -239,7 +239,7 @@ export const deleteUser = asyncHandler( async (req, res) => {
 
 	if (user.role === 'studio head') {
 		res.status(401)
-		throw new Error('Deleting the studio head is disabled for this demo.')
+		throw new Error('Deleting the studio head is currently disabled.')
 	}
 
 	if (!user) {
