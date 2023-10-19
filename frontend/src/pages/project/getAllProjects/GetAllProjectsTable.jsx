@@ -467,7 +467,7 @@ const GetAllProjectsTable = () => {
 				<Box>
 					<Tabs value={tabValue} onChange={handleTabChange}>
 						<Tab label="Overview" value="overview" />
-						<Tab label="Staff" value="staff" />
+						<Tab label="Crew" value="staff" />
 						<Tab label="Deliverables" value="deliverables" />
 					</Tabs>
 				</Box>
