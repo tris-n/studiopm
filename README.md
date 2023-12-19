@@ -205,6 +205,11 @@ Create a `Studio Head` account at [https://www.mystudiopm.com/register](https://
 
 ![register]
 
+### Live Demo
+If you just want to demo the site without creating an account, you can click on one of the four role demos at [https://www.mystudiopm.com/](https://www.mystudiopm.com/).
+
+![demo]
+
 ### The Dashboard
 The dashboard displays the most recent projects and provides an overview of the studio's budget.
 
@@ -336,6 +341,7 @@ Project Link: [https://github.com/tris-n/studiopm](https://github.com/tris-n/stu
 <!-- Screenshots -->
 [dashboard]: readme/images/dashboard.jpg
 [register]: readme/images/register.jpg
+[demo]: readme/images/demo.jpg
 
 [projects]: readme/images/projects.jpg
 [createProject]: readme/images/createProject.jpg
